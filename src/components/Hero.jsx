@@ -1,5 +1,4 @@
 import React from "react";
-
 const Hero = ({
   title1 = "Become a React ",
   title2 = "dev",
